@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Paul Treve
+![Paul Treve's github stats](https://github-readme-stats.vercel.app/api?username=trevennue)
 [LinkedIn](https://gh.linkedin.com/in/paul-treve-b5742a193) | [Twitter](https://www.twitter.com/trevennue) | [Math plus Tech (YouTube)](https://www.youtube.com/channel/UC-dACUufbrNAdhkiEIOVDcg) | [Math plus Tech (Medium)](https://mathplustech.medium.com/) | [Instagram](https://www.instagram.com/trevennue/)
 
-![Paul Treve's github stats](https://github-readme-stats.vercel.app/api?username=trevennue)
+
 
 
 Yes, I'm a computer engineer, a tech enthusiast and a general lover of math, science and technology. I'm a happy person by nature. I find most things facinating and I, most certainly, do not believe that anything is too difficult to do.
