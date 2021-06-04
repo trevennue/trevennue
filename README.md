@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Paul Treve
 ![Paul Treve's github stats](https://github-readme-stats.vercel.app/api?username=trevennue)
+
 [LinkedIn](https://gh.linkedin.com/in/paul-treve-b5742a193) | [Twitter](https://www.twitter.com/trevennue) | [Math plus Tech (YouTube)](https://www.youtube.com/channel/UC-dACUufbrNAdhkiEIOVDcg) | [Math plus Tech (Medium)](https://mathplustech.medium.com/) | [Instagram](https://www.instagram.com/trevennue/)
 
 
