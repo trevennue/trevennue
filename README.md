@@ -3,7 +3,7 @@
 <h2 align="center"> About me 🙂 </h2>
 
 I call myself a **machine learning engineer** / **data scientist** because I'm currently learning the concepts of machine learning; just as science student is a scientist. I'm a [**Python**](python.org) developer.
-I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knust.edu.gh/).
+I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knust.edu.gh/); the tech boy who wants to do everything.
 - 🌱 I'm currently learning machine learning and I'm really enjoying it. 😜
 - 📫 Contact me: p.trevennue@gmail.com
 - 👀 Fun fact about me: I'm a happy person by nature; mostly happy. 
