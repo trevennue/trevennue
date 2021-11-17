@@ -23,8 +23,8 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 <h2 align="center"> Tools and Technologies Used </h2>
 
 <p align="center">
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/55891238/142151589-4a292c7c-d71b-437f-8fa5-204ef9c5b5a4.png"></code>
+  <code><img width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img width="8%" src="https://user-images.githubusercontent.com/55891238/142151589-4a292c7c-d71b-437f-8fa5-204ef9c5b5a4.png"></code>
 
 </p>
 <!-- ![sklearn](https://user-images.githubusercontent.com/55891238/142151589-4a292c7c-d71b-437f-8fa5-204ef9c5b5a4.png) -->
