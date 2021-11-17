@@ -11,6 +11,8 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 
 ![44](https://user-images.githubusercontent.com/55891238/141702415-39036067-23fb-40d2-9895-57f97053bae1.jpg)
 
+<br>
+
 <h2 align="center"> 📈 Stats</h2>
 <p align="center">
 <img width="47%"
@@ -19,6 +21,8 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Choudharytara&theme=tokyonight" />
 
 </p>
+<br>
+
 
 <h2 align="center"> Tools and Technologies Used </h2>
 
@@ -28,11 +32,11 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
   <code><img width="8%" src="https://user-images.githubusercontent.com/55891238/142151589-4a292c7c-d71b-437f-8fa5-204ef9c5b5a4.png"></code>
   <code><img width="8%" src="https://user-images.githubusercontent.com/55891238/142157620-80cbbfd2-1d87-4ecc-b783-eef21b14a155.png"></code>
 </p>
+<br>
+
 <!-- 
 ![sklearn](https://user-images.githubusercontent.com/55891238/142151589-4a292c7c-d71b-437f-8fa5-204ef9c5b5a4.png) 
 ![PngItem_2413971](https://user-images.githubusercontent.com/55891238/142157620-80cbbfd2-1d87-4ecc-b783-eef21b14a155.png)
-
-
 -->
 
 
