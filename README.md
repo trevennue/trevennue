@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, friend👋 I’m Paul Treve</h1>
 
+![Dev44](https://user-images.githubusercontent.com/55891238/142205494-b3905db9-c4f7-4c12-b109-b9c34817a356.jpg)
+
 <h2 align="center"> About me 🙂 </h2>
 
 I call myself a **machine learning engineer** / **data scientist** because I'm currently learning the concepts of machine learning; just as science student is a scientist. I'm a [**Python**](python.org) developer.
@@ -9,7 +11,8 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 - 👀 Fun fact about me: I'm a happy person by nature; mostly happy. 
 - ⚡ I find maths, science and technology really fascinating.
 
-![44](https://user-images.githubusercontent.com/55891238/141702415-39036067-23fb-40d2-9895-57f97053bae1.jpg)
+<!--- ![44](https://user-images.githubusercontent.com/55891238/141702415-39036067-23fb-40d2-9895-57f97053bae1.jpg) --->
+
 
 <br>
 
