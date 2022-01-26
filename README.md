@@ -21,7 +21,7 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 <img width="47%"
    src="https://github-readme-stats.vercel.app/api?username=trevenue44&show_icons=true&theme=tokyonight" 
 />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Choudharytara&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=trevenue44&theme=tokyonight" />
 
 </p>
 <br>
