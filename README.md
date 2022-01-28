@@ -22,7 +22,7 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
    src="https://github-readme-stats.vercel.app/api?username=trevenue44&show_icons=true&theme=tokyonight" 
 />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=trevenue44&theme=tokyonight" />
-
+   
 </p>
 <br>
 
@@ -34,6 +34,10 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
   <code><img width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img width="8%" src="https://user-images.githubusercontent.com/55891238/142151589-4a292c7c-d71b-437f-8fa5-204ef9c5b5a4.png"></code>
   <code><img width="8%" src="https://user-images.githubusercontent.com/55891238/142157620-80cbbfd2-1d87-4ecc-b783-eef21b14a155.png"></code>
+</p>
+<br>
+<p align="center">
+<img width="48%"  height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevenue44&layout=compact" />
 </p>
 <br>
 
