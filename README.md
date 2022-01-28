@@ -7,7 +7,7 @@
 I call myself a **machine learning engineer** / **data scientist** because I'm currently learning the concepts of machine learning; just as science student is a scientist. I'm a [**Python**](python.org) developer.
 I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knust.edu.gh/); the tech boy who wants to do everything.
 - 🌱 I'm currently learning machine learning and I'm really enjoying it. 😜
-- 📫 Contact me: p.trevennue@gmail.com
+- 📫 Contact me: [here](mailto:p.trevennue@gmail.com).
 - 👀 Fun fact about me: I'm a happy person by nature; mostly happy. 
 - ⚡ I find maths, science and technology really fascinating.
 
@@ -49,10 +49,10 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 <a href="https://twitter.com/trevenue44/">
   <img alt="Paul Treve | Twitter" width="5%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/paul-treve-b5742a193/">
+<a href="https://www.linkedin.com/in/trevenue44/">
   <img alt="Paul Treve LinkedIn" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
-  <a href="https://youtube.com/c/trevenue44">
+  <a href="https://youtube.com/trevenue44">
   <img alt="Paul Treve | YouTube" width="5%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <br>
