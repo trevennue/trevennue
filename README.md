@@ -37,7 +37,7 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 </p>
 <br>
 <p align="center">
-<img width="48%"  height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevenue44&layout=compact" />
+<img width="48%"  height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevenue44&layout=compact&theme=tokyonight" />
 </p>
 <br>
 
