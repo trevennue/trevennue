@@ -4,7 +4,7 @@
 
 <h2 align="center"> About me 🙂 </h2>
 
-I call myself a **machine learning engineer** because I'm currently learning the concepts of machine learning; just as science student is a scientist. I'm a [**Python**](python.org) developer.
+I call myself a **Machine Learning engineer** because I'm currently learning the concepts of machine learning; just as a science student is a scientist. I'm a [**Python**](python.org) developer.
 I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knust.edu.gh/); the tech boy who wants to do everything.
 - 🌱 I'm currently learning machine learning and I'm really enjoying it. 😜
 - 📫 Contact me: [here](mailto:p.trevennue@gmail.com).
