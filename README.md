@@ -47,6 +47,7 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 -->
 
 
+
 <h2 align="center">Let's be Friends...</h2>
 
 <p align="center">
@@ -64,6 +65,7 @@ I'm an undergraduate computer engineering (BSc.) student of [KNUST](https://knus
 
 <hr>
 
+![photo with 44 card bw](https://user-images.githubusercontent.com/55891238/157239242-57d3020b-fbf1-4d9f-9523-c588b6e9610c.jpg)
 
 <!---
 
