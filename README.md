@@ -18,7 +18,7 @@ I'm the tech boy who wants to do everything and make impact!
 
 <h2 align="center"> Tools and Technologies Used </h2>
 
-- **Machine Learning & Data Science**: • Scikit-Learn • Pandas • Numpy • Jupyter Notebooks
+- **Machine Learning & Data Science**: • TensorFlow • Scikit-Learn • Pandas • Numpy • Jupyter Notebooks
 - **Backend Engineering**: • Flask • SQLAlchemy • Python
 - **Frontend Engineering**: • React • Jest • Typescript
 
