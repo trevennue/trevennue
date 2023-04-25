@@ -10,7 +10,7 @@ I'm the tech boy who wants to do everything and make impact!
 - 📫 Contact me: [here](mailto:trevenue44.main@gmail.com).
 - 👀 Fun fact about me: I'm a happy person by nature; mostly happy. 
 - ⚡ I find maths, science and technology really fascinating.
-- 🤝 Connect with me: • [Twitter](https://twitter.com/trevenue44) • [YouTube](https://youtube.com/@trevenue44) • [LinedIn](https://www.linkedin.com/in/trevenue44/)
+- 🤝 Connect with me: • [Twitter](https://twitter.com/trevenue44) • [YouTube](https://youtube.com/@trevenue44) • [LinkedIn](https://www.linkedin.com/in/trevenue44/)
 
 <!--- ![44](https://user-images.githubusercontent.com/55891238/141702415-39036067-23fb-40d2-9895-57f97053bae1.jpg) --->
 
@@ -19,7 +19,7 @@ I'm the tech boy who wants to do everything and make impact!
 <h2 align="center"> Tools and Technologies Used </h2>
 
 - **Machine Learning & Data Science**: • TensorFlow • Scikit-Learn • Pandas • Numpy • Jupyter Notebooks
-- **Backend Engineering**: • Flask • SQLAlchemy • Python
+- **Backend Engineering**: • Django • Flask • Python
 - **Frontend Engineering**: • React • Jest • Typescript
 
 <br>
