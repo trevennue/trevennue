@@ -4,7 +4,7 @@
 
 <!-- <h2 align="center"> About me 🙂 </h2> -->
 
-I call myself a **full stack data scientist** because I'm currently becoming one. I'm a **Software Engineer** specialising in Machine Learning and Data Science with [Python](https://python.org); Frontend Development with [React](https://reactjs.org/) and Typescript; and some Backend Engineering with Python.
+I call myself a **machine learning engineer** because I'm currently becoming one. I'm a **Software Engineer** specialising in Machine Learning and Data Science with [Python](https://python.org); Frontend Development with [React](https://reactjs.org/) and Typescript; and Backend Engineering with Python.
 
 I'm the tech boy who wants to do everything and make impact!
 - 📫 Contact me: [here](mailto:trevenue44.main@gmail.com).
